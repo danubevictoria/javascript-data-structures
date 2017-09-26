@@ -1,4 +1,5 @@
 // Binary Search Tree
+// O (log n) faster than linked list because you only have to search through half of the tree to find the one you are looking for
 // Constructors
 function BST(value) {
   this.value = value;
